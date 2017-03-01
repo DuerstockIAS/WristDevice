@@ -1,1 +1,3 @@
-# WristDevice wassup
+# WristDevice
+
+Windows
