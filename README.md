@@ -23,3 +23,10 @@ Whatever you type in the console on your computer can be read using:
 `bluetooth.read()`
 
 The tutorial for using the bluesmirf is [here](https://learn.sparkfun.com/tutorials/using-the-bluesmirf)
+
+
+# Consideration 2: NRF24L01 Radio Unit
+## Schematic
+
+## Commumicating Arduino to Computer
+One NRF unit connected directly to Arduino, the other NRF unit connected via USB adapter directly to computer.
