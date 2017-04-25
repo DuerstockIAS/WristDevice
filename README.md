@@ -11,6 +11,8 @@ For Arduino Uno:
 
 For Arduino Micro:
 
+![52dc78a8-29c5-11e7-84e1-01b5861500c2 copy](https://cloud.githubusercontent.com/assets/25937243/25404964/b31d8978-29cf-11e7-8943-8ac87f0d64cf.png)
+
 ## Commumicating Arduino to Computer
 One NRF unit connected directly to Arduino, the other NRF unit connected via USB adapter directly to computer.
 
