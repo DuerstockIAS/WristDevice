@@ -27,6 +27,8 @@ The tutorial for using the bluesmirf is [here](https://learn.sparkfun.com/tutori
 
 # Consideration 2: NRF24L01 Radio Unit
 ## Schematic
+### Hookup Guide
+![nrf-ardino-en](https://cloud.githubusercontent.com/assets/25937243/25401966/52dc78a8-29c5-11e7-84e1-01b5861500c2.png)
 
 ## Commumicating Arduino to Computer
 One NRF unit connected directly to Arduino, the other NRF unit connected via USB adapter directly to computer.
