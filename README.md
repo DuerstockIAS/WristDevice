@@ -19,6 +19,8 @@ One NRF unit connected directly to Arduino mounted on wrist device, the other NR
 
 
 
+
+
 # Old Considerations (Using Bluetooth Device):
 ## Windows
 
