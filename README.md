@@ -16,6 +16,7 @@ One NRF unit connected directly to Arduino mounted on wrist device, the other NR
 ## Important Notes
 - In order to utilise the "Keyboard.h" library, an Arduino Micro or Leonardo must be used. 
 - A special NRF Repository was acquired from [this link](https://github.com/nRF24/RF24).
+- On the NRF24L01 module, a capacitor was placed across the connection of the VCC and GND to provide a consistent current.
 
 
 
